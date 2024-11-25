@@ -29,7 +29,7 @@
 </p>
 
 
-<h3 align="center">Other Skills</h3>
+<h4 align="center">Other Skills</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ps,ai,pr&perline=14" />
