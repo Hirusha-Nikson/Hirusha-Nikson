@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header&&customColorList=3,24,24,24,24,23&reversal=false&animation=fadeIn">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header&&customColorList=24,24,24,24,24,23&reversal=false&animation=fadeIn">
 
 <!--
 **Hirusha-Nikson/Hirusha-Nikson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
