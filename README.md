@@ -16,9 +16,9 @@
 
 
 
-### <img src="https://github.com/Hirusha-Nikson/Hirusha-Nikson/blob/main/ezgif.com-effects.gif" width ="25" color="#6948fa"><b> About me</b>
+### <img src="https://github.com/Hirusha-Nikson/Hirusha-Nikson/blob/main/ezgif.com-effects.gif" width ="15" color="#6948fa"><b> About me</b>
 
 
-### <img src="https://github.com/Hirusha-Nikson/Hirusha-Nikson/blob/main/ezgif.com-effects.gif" width ="25"><b> Skills</b>
+### <img src="https://github.com/Hirusha-Nikson/Hirusha-Nikson/blob/main/ezgif.com-effects.gif" width ="15"><b> Skills</b>
 
 
