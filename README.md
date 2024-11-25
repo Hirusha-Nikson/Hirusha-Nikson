@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6948fa&section=header&reversal=false&animation=fadeIn" width="100%">
 
 <div align="center">
-  <img src="https://github.com/Hirusha-Nikson/Hirusha-Nikson/blob/main/wave.gif" width="40px" />
+  <img src="https://github.com/Hirusha-Nikson/Hirusha-Nikson/blob/main/wave.gif" width="60px" />
 <h1 align="center">Hi, I'm Hirusha Nikson
   <br>
   <p align="center" >
