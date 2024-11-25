@@ -7,11 +7,8 @@
 
 ***
 
-[![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)]
 
-<div class="github-introduction">Hello there</div>
-<div align="center">
+<div align="right">
 <img src="https://komarev.com/ghpvc/?username=Hirusha-Nikson&color=6c1aed">
 </div>
 
