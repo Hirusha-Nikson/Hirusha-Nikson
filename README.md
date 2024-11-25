@@ -10,6 +10,8 @@
 <img src="https://komarev.com/ghpvc/?username=Hirusha-Nikson&color=6c1aed">
 </div>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=6948FA&width=435&lines=Front-end;Back-end;Web;Mobile+app)] Developer
+
 <!--
 **Hirusha-Nikson/Hirusha-Nikson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
