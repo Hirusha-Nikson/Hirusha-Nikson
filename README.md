@@ -44,6 +44,8 @@
 
 ### <img src="https://github.com/Hirusha-Nikson/Hirusha-Nikson/blob/main/ezgif.com-effects.gif" width ="15"><b> Languages and Tools</b>
 
+<img src="https://ghchart.rshah.org/409ba5/2016rshah" alt="2016rshah's Blue Github Chart" />
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6948fa&section=footer" width="100%">
 
