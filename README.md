@@ -39,9 +39,12 @@
   </a>
 </p>
 
+
+##
+
+###<img src="https://github.com/Hirusha-Nikson/Hirusha-Nikson/blob/main/ezgif.com-effects.gif" width ="15"><b> Languages and Tools</b>
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6948fa&section=footer" width="100%">
-
-### <img src="https://github.com/Hirusha-Nikson/Hirusha-Nikson/blob/main/ezgif.com-effects.gif" width ="15"><b> Languages and Tools</b>
-
 
 
