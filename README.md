@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=Hirusha-Nikson&color=6948fa">
 </p>
 
-***
+##
 
 ## <img src="https://giphy.com/stickers/GitHub-mascots-githubuniverse2024-githubuniverse2024copilot-Sh1iCtJZEdx4PFYy4q" width ="25"><b> About me</b>
 
