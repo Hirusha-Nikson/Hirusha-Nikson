@@ -5,6 +5,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=6947FF&center=true&vCenter=true&width=435&lines=Hello%2C+i'm+Hirusha+Nikson;Full+Stack+Developer+">
 </div>
 
+![](https://komarev.com/ghpvc/?username=Hirusha-Nikson&color=#6c1aed)
+
 <!--
 **Hirusha-Nikson/Hirusha-Nikson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
