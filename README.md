@@ -1,5 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6948fa&section=header&reversal=false&animation=fadeIn" width="100%">
 <!--<h2 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Hirusha Nikson</h2>-->
+<h1 align="center">Hi, I'm <a href="https://github.com/Kathryn-Jie">Yi Jie<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
 <p align="center" >
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=6947FF&center=true&vCenter=true&width=435&lines=Hello%2C+i'm+Hirusha+Nikson;Full+Stack+Developer+">
 </p>
