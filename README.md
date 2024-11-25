@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header&&customColorList=24,24,24,24,24,23&reversal=false&animation=fadeIn" width="100%">
 
-<div align="center>
+
 <h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Hirusha Nikson</h1>
-</div>
+
 
 
 <!--
