@@ -51,7 +51,7 @@
 </div>
 
 
-[![Your Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Hirusha-Nikson&theme=radical&title_color=ff69b4&text_color=ffffff&bg_color=1e1e2e)](https://github.com/your-username/your-repo)
+[![Your Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Hirusha-Nikson&repo=github-readme-stats&theme=radical&title_color=ff69b4&text_color=ffffff&bg_color=1e1e2e)](https://github.com/Hirusha-Nikson&repo=github-readme-stats)
 
 
 ###
