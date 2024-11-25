@@ -42,18 +42,6 @@
 
 ##
 
-### <img src="https://github.com/Hirusha-Nikson/Hirusha-Nikson/blob/main/ezgif.com-effects.gif" width ="15"><b> Languages and Tools</b>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hirusha-nikson&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=falset&title_color=6d4fef&text_color=ffffff&bg_color=0d1117&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hirusha-nikson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-
-
-###
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6948fa&section=footer" width="100%">
 
