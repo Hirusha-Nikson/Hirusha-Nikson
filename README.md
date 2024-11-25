@@ -6,7 +6,6 @@
 </div>
 
 <div align="center">
-![](https://komarev.com/ghpvc/?username=Hirusha-Nikson&color=6c1aed)
 <img src="https://komarev.com/ghpvc/?username=Hirusha-Nikson&color=6c1aed">
 </div>
 
