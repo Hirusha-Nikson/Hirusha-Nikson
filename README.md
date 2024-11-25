@@ -10,7 +10,7 @@
 
 ***
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+### <picture><img src = "https://giphy.com/embed/CwTvSiWflgCGKgz5eb" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/git-github-janesu927-CwTvSiWflgCGKgz5eb" width = 50px></picture> **About me**
 <!--
 **Hirusha-Nikson/Hirusha-Nikson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
