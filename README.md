@@ -22,7 +22,7 @@
 
 ### <img src="https://github.com/Hirusha-Nikson/Hirusha-Nikson/blob/main/ezgif.com-effects.gif" width ="15"><b> Skills</b>
 
-<table style="border-collapse: collapse;">
+<table style="border-none;!important">
   <tr style="border:none;!important">
     <td style="border:none;!important">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  width=24/>
