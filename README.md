@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6948fa&section=header&reversal=false&animation=fadeIn" width="100%">
 
-<h1 align="center">Hi, I'm Hirusha Nikson<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="40px" /></h1>
+<h1 align="center">Hi, I'm Hirusha Nikson<a><img src="https://github.com/Hirusha-Nikson/Hirusha-Nikson/blob/main/wave.gif" width="40px" /></h1>
 <h2 align="center">Hi, I'm Hirusha Nikson</h2>
   
 <p align="center" >
