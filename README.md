@@ -56,7 +56,7 @@
 
 [![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hirusha-Nikson&repo=csharp)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hirusha-Nikson&repo=Photography-Application&title_color=6d4fef&text_color=ffffff&bg_color=0d1117)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Hirusha-Nikson/Photography-Application))
 
 ###
 
