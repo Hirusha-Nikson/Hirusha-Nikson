@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Hirusha Nikson
   <br>
   <p align="center" >
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=6947FF&center=true&vCenter=true&width=435&lines=Hello%2C+i'm+Hirusha+Nikson;Full+Stack+Developer+">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=6948FA&width=435&lines=Full+Stack+Developer;Web+Developer;Graphic+Designer;Content+Creator;Photographer;Cinematographer">
 </p>
 </h1>
 </div>
