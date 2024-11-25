@@ -13,9 +13,11 @@
 ### <picture><img src = "https://giphy.com/embed/CwTvSiWflgCGKgz5eb" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/git-github-janesu927-CwTvSiWflgCGKgz5eb" width = 50px></picture> **About me**
 
 <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/CwTvSiWflgCGKgz5eb" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/git-github-janesu927-CwTvSiWflgCGKgz5eb">via GIPHY</a></p>
-<img src="ttps://giphy.com/embed/Sh1iCtJZEdx4PFYy4q" width = 50px">
+<img src="https://giphy.com/embed/QssGEmpkyEOhBCb7e1/giphy.gif?" width = 50px">
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+<iframe src="" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/coding-webdesign-coder-QssGEmpkyEOhBCb7e1">via GIPHY</a></p>
 <!--
 **Hirusha-Nikson/Hirusha-Nikson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
