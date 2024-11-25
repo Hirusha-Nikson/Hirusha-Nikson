@@ -52,7 +52,9 @@
 
 
 [![Your Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Hirusha-Nikson&repo=github-readme-stats&theme=radical&title_color=ff69b4&text_color=ffffff&bg_color=1e1e2e)](https://github.com/Hirusha-Nikson&repo=github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 
 ###
 
