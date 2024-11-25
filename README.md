@@ -2,7 +2,7 @@
 
 <!--<h2 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Hirusha Nikson</h2>-->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=6947FF&width=435&lines=Hello%2C+i'm+Hirusha+Nikson;Full+Stack+Developer+)](https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=6947FF&width=435&lines=Hello%2C+i'm+Hirusha+Nikson;Full+Stack+Developer+">
 </div>
 
 <!--
