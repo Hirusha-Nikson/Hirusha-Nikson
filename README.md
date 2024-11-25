@@ -4,6 +4,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=6947FF&center=true&vCenter=true&width=435&lines=Hello%2C+i'm+Hirusha+Nikson;Full+Stack+Developer+">
 </div>
+
 ***
 <div class="github-introduction">Hello there</div>
 <div align="center">
