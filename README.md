@@ -5,7 +5,7 @@
 </p>
 
 <p align="right" style="line-heignt: 2;">
-<img src="https://komarev.com/ghpvc/?username=Hirusha-Nikson&color=6c1aed">
+<img src="https://komarev.com/ghpvc/?username=Hirusha-Nikson&color=6948fa">
 </p>
 
 ***
