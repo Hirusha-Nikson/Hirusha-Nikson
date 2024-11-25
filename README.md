@@ -1,8 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6948fa&section=header&reversal=false&animation=fadeIn" width="100%">
 
@@ -31,7 +26,7 @@ td, th {
 <table>
   <tr>
     <td>
-      <img src="https://icons8.com/icon/13441/python">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  width=12/>
     </td>
   </tr>
 </table>
