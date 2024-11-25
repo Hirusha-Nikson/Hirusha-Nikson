@@ -26,7 +26,7 @@
 
 <br>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/Hirusha-Nikson">
     <img src="https://skillicons.dev/icons?i=py,dotnet,cs,java,html,css,js,ts,tailwind,bootstrap,alpinejs,php,nodejs,react,nextjs,express,jquery,django,flask,flutter,dart,firebase,mongodb,mysql,figma,vscode,pycharm,eclipse&perline=14" />
   </a>
 </p>
@@ -34,7 +34,7 @@
 
 <h4 align="center">Other Skills</h4>
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://github.com/Hirusha-Nikson">
     <img src="https://skillicons.dev/icons?i=ps,ai,pr&perline=3" />
   </a>
 </p>
