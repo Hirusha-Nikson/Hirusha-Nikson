@@ -1,13 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6948fa&section=header&reversal=false&animation=fadeIn" width="100%">
 
-<h1 align="center">Hi, I'm Hirusha Nikson<a><img src="https://github.com/Hirusha-Nikson/Hirusha-Nikson/blob/main/wave.gif" width="40px" />
+<div align="center">
+  <img src="https://github.com/Hirusha-Nikson/Hirusha-Nikson/blob/main/wave.gif" width="40px" />
+<h1 align="center">Hi, I'm Hirusha Nikson
   <br>
   <p align="center" >
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=4000&pause=1000&color=6947FF&center=true&vCenter=true&width=435&lines=Hello%2C+i'm+Hirusha+Nikson;Full+Stack+Developer+">
 </p>
 </h1>
-
-  
+</div>
 
 
 <p align="right" style="line-heignt: 2;">
