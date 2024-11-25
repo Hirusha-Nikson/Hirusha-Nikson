@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff6a0d&section=header&reversal=false&animation=fadeIn" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6948fa&section=header&reversal=false&animation=fadeIn" width="100%">
 
 <!--<h2 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Hirusha Nikson</h2>-->
 <div align="center">
