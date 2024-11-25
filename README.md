@@ -28,9 +28,10 @@
   </a>
 </p>
 
-Other skills
+
 
 <p align="center">
+  Other skills
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ps,ai,pr&perline=14" />
   </a>
