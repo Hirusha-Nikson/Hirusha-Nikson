@@ -22,6 +22,7 @@
 
 ### <img src="https://github.com/Hirusha-Nikson/Hirusha-Nikson/blob/main/ezgif.com-effects.gif" width ="15"><b> Languages and Tools</b>
 
+<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,dotnet,cs,java,html,css,js,ts,tailwind,bootstrap,alpinejs,php,nodejs,react,nextjs,express,jquery,django,flask,flutter,dart,firebase,mongodb,mysql,figma,vscode,pycharm,eclipse&perline=14" />
