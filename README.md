@@ -10,10 +10,8 @@
 
 ***
 
-### <img src="https://giphy.com/stickers/GitHub-mascots-githubuniverse2024-githubuniverse2024copilot-Sh1iCtJZEdx4PFYy4q" width ="25"><b> **About me**</b>
+### <img src="https://giphy.com/stickers/GitHub-mascots-githubuniverse2024-githubuniverse2024copilot-Sh1iCtJZEdx4PFYy4q" width ="25"><b> About me</b>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/CwTvSiWflgCGKgz5eb" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/git-github-janesu927-CwTvSiWflgCGKgz5eb">via GIPHY</a></p>
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDR0OGs5ZXZtZjNuaTBndXM0aHl2ZTBkNHJodHN5cTU1ZnZleHdiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QssGEmpkyEOhBCb7e1/giphy.gif" width = "25">
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
