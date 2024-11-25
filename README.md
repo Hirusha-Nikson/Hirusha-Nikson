@@ -50,6 +50,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hirusha-nikson&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+
+[![Your Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=Hirusha-Nikson&theme=radical&title_color=ff69b4&text_color=ffffff&bg_color=1e1e2e)](https://github.com/your-username/your-repo)
+
+
 ###
 
 
