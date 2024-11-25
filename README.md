@@ -20,7 +20,7 @@
 ##
 
 
-### <img src="https://github.com/Hirusha-Nikson/Hirusha-Nikson/blob/main/ezgif.com-effects.gif" width ="15"><b> Skills</b>
+### <img src="https://github.com/Hirusha-Nikson/Hirusha-Nikson/blob/main/ezgif.com-effects.gif" width ="15"><b> Languages and Tools</b>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -29,7 +29,7 @@
 </p>
 
 
-<p align="center">Other skills</p>
+<p align="center">Other Skills</p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ps,ai,pr&perline=14" />
