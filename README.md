@@ -1,4 +1,15 @@
-
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: none;
+}
+blockquote {
+    border-left: none;
+    padding-left: 10px;
+}
+</style>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6948fa&section=header&reversal=false&animation=fadeIn" width="100%">
 
 <div align="center">
