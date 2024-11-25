@@ -8,7 +8,7 @@
 <img src="https://komarev.com/ghpvc/?username=Hirusha-Nikson&color=6c1aed">
 </div>
 
-**8
+***
 
 <!--
 **Hirusha-Nikson/Hirusha-Nikson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
