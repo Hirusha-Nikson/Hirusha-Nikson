@@ -1,15 +1,3 @@
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: none;
-}
-blockquote {
-    border-left: none;
-    padding-left: 10px;
-}
-</style>
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6948fa&section=header&reversal=false&animation=fadeIn" width="100%">
 
 <div align="center">
@@ -34,9 +22,9 @@ blockquote {
 
 ### <img src="https://github.com/Hirusha-Nikson/Hirusha-Nikson/blob/main/ezgif.com-effects.gif" width ="15"><b> Skills</b>
 
-<table style="border:none!important">
-  <tr style="border:none!important">
-    <td style="border:none!important">
+<table style="border-collapse: collapse;">
+  <tr style="border:none;!important">
+    <td style="border:none;!important">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  width=24/>
     </td>
   </tr>
