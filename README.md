@@ -17,13 +17,13 @@
 ### <img src="https://github.com/Hirusha-Nikson/Hirusha-Nikson/blob/main/ezgif.com-effects.gif" width ="15" color="#6948fa"><b style="color:#6948fa;"> About me</b>
 <p>I’m a 3rd-year Software Engineering student at Plymouth University (NSBM Green University), passionate about coding, problem-solving, and building impactful applications.
 
-- Currently Learning
+- Currently Learning: <br>
 Web & Mobile Development: Front-end frameworks, back-end systems, and databases.
-- Interests
+- Interests: <br>
 Full-stack development
 AI-powered solutions
 Modern app design and implementation
-- Let’s Connect
+- Let’s Connect: <br>
 Feel free to explore my repositories and projects. I’m open to collaborations and discussions!</p>
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin,&perline=3)](https://linkedin.com/in/hirusha-nikson)
