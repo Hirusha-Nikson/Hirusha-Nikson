@@ -36,7 +36,7 @@ Feel free to explore my repositories and projects. I’m open to collaborations 
 <br>
 <p align="center">
   <a href="https://github.com/Hirusha-Nikson">
-    <img src="https://skillicons.dev/icons?i=py,dotnet,c#,react,nextjs,threejs,nodejs,express,js,ts,tailwind,html,css,js,ts,mongodb,mysql,postman,github,docker,figma,vscode,visualstudio,pycharm&perline=14" />
+    <img src="https://skillicons.dev/icons?i=py,dotnet,csharp,react,nextjs,threejs,nodejs,express,js,ts,tailwind,html,css,js,ts,mongodb,mysql,postman,github,docker,figma,vscode,visualstudio,pycharm&perline=14" />
   </a>
 </p>
 
