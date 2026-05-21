@@ -1,74 +1,18 @@
 <div align="center">
 
-<svg width="100%" viewBox="0 0 680 280" role="img" xmlns="http://www.w3.org/2000/svg">
-  <title>Hirusha Nikson — GitHub Profile Banner</title>
-  <desc>Dark tech banner for Hirusha Nikson, Full Stack Developer, with lime green accent color and geometric code aesthetic</desc>
-  <style>
-    @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;600&amp;family=Space+Grotesk:wght@300;700&amp;display=swap');
-    @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
-    .cursor { animation: blink 1.1s step-end infinite; }
-    @keyframes fadein { from{opacity:0} to{opacity:1} }
-    .fade1 { animation: fadein 0.6s ease 0.2s both; }
-    .fade2 { animation: fadein 0.6s ease 0.5s both; }
-    .fade3 { animation: fadein 0.6s ease 0.8s both; }
-    .fade4 { animation: fadein 0.6s ease 1.1s both; }
-    .fade5 { animation: fadein 0.6s ease 1.4s both; }
-  </style>
-  <rect width="680" height="280" fill="#0a0a0a"/>
-  <line x1="0" y1="0" x2="680" y2="280" stroke="#a3e635" stroke-width="0.3" opacity="0.07"/>
-  <line x1="680" y1="0" x2="0" y2="280" stroke="#a3e635" stroke-width="0.3" opacity="0.07"/>
-  <line x1="340" y1="0" x2="340" y2="280" stroke="#a3e635" stroke-width="0.3" opacity="0.05"/>
-  <line x1="0" y1="140" x2="680" y2="140" stroke="#a3e635" stroke-width="0.3" opacity="0.05"/>
-  <rect x="0" y="0" width="680" height="2" fill="#a3e635" opacity="0.9"/>
-  <rect x="0" y="278" width="680" height="2" fill="#a3e635" opacity="0.3"/>
-  <rect x="40" y="30" width="8" height="8" fill="#a3e635" opacity="0.9"/>
-  <rect x="54" y="30" width="8" height="8" fill="#a3e635" opacity="0.4"/>
-  <rect x="68" y="30" width="8" height="8" fill="#a3e635" opacity="0.15"/>
-  <rect x="624" y="30" width="8" height="8" fill="#a3e635" opacity="0.15"/>
-  <rect x="610" y="30" width="8" height="8" fill="#a3e635" opacity="0.4"/>
-  <rect x="596" y="30" width="8" height="8" fill="#a3e635" opacity="0.9"/>
-  <rect x="40" y="242" width="8" height="8" fill="#a3e635" opacity="0.15"/>
-  <rect x="54" y="242" width="8" height="8" fill="#a3e635" opacity="0.4"/>
-  <rect x="68" y="242" width="8" height="8" fill="#a3e635" opacity="0.9"/>
-  <rect x="596" y="242" width="8" height="8" fill="#a3e635" opacity="0.9"/>
-  <rect x="610" y="242" width="8" height="8" fill="#a3e635" opacity="0.4"/>
-  <rect x="624" y="242" width="8" height="8" fill="#a3e635" opacity="0.15"/>
-  <g class="fade1" opacity="0.12" fill="#a3e635">
-    <text x="40" y="72" font-family="'Fira Code', monospace" font-size="10" letter-spacing="1">const dev = new Engineer();</text>
-    <text x="40" y="88" font-family="'Fira Code', monospace" font-size="10" letter-spacing="1">dev.skills = ['React','Node','C#'];</text>
-    <text x="40" y="104" font-family="'Fira Code', monospace" font-size="10" letter-spacing="1">dev.passion = 'building impact';</text>
-  </g>
-  <g class="fade1" opacity="0.12" fill="#a3e635">
-    <text x="640" y="72" font-family="'Fira Code', monospace" font-size="10" letter-spacing="1" text-anchor="end">git status: all clear ✓</text>
-    <text x="640" y="88" font-family="'Fira Code', monospace" font-size="10" letter-spacing="1" text-anchor="end">branch: main → production</text>
-    <text x="640" y="104" font-family="'Fira Code', monospace" font-size="10" letter-spacing="1" text-anchor="end">commits: pushing daily</text>
-  </g>
-  <rect x="0" y="118" width="680" height="1" fill="#a3e635" opacity="0.08"/>
-  <rect x="0" y="162" width="680" height="1" fill="#a3e635" opacity="0.08"/>
-  <text class="fade2" x="340" y="152" font-family="'Fira Code', monospace" font-size="10" fill="#a3e635" opacity="0.6" text-anchor="middle" letter-spacing="4">▸ HIRUSHA NIKSON ◂</text>
-  <text class="fade3" x="340" y="198" font-family="'Space Grotesk', sans-serif" font-size="46" font-weight="700" fill="#ffffff" text-anchor="middle" letter-spacing="-1">Hirusha Nikson</text>
-  <text class="fade4" x="340" y="222" font-family="'Fira Code', monospace" font-size="13" fill="#a3e635" text-anchor="middle" letter-spacing="2">Full Stack Developer  ·  Designer  ·  Cinematographer</text>
-  <g class="fade5">
-    <rect x="196" y="236" width="289" height="22" rx="3" fill="#a3e635" opacity="0.08"/>
-    <rect x="196" y="236" width="289" height="22" rx="3" fill="none" stroke="#a3e635" stroke-width="0.5" opacity="0.4"/>
-    <text x="210" y="251" font-family="'Fira Code', monospace" font-size="11" fill="#a3e635" opacity="0.85" letter-spacing="0.5">
-      <tspan fill="#a3e635" opacity="0.5">~/</tspan><tspan fill="#a3e635">hirusha-nikson</tspan><tspan fill="#a3e635" opacity="0.5"> on </tspan><tspan fill="#a3e635">main</tspan><tspan fill="#a3e635" opacity="0.5"> ❯ </tspan><tspan fill="#ffffff" opacity="0.7">open to collaborate</tspan><tspan fill="#a3e635" class="cursor">▌</tspan>
-    </text>
-  </g>
-  <rect x="40" y="128" width="3" height="24" fill="#a3e635" opacity="0.6"/>
-  <rect x="637" y="128" width="3" height="24" fill="#a3e635" opacity="0.6"/>
-  <circle cx="340" cy="62" r="18" fill="none" stroke="#a3e635" stroke-width="0.5" opacity="0.2"/>
-  <circle cx="340" cy="62" r="12" fill="none" stroke="#a3e635" stroke-width="0.5" opacity="0.15"/>
-  <circle cx="340" cy="62" r="4" fill="#a3e635" opacity="0.5"/>
-  <line x1="340" y1="40" x2="340" y2="50" stroke="#a3e635" stroke-width="0.5" opacity="0.3"/>
-  <line x1="340" y1="74" x2="340" y2="84" stroke="#a3e635" stroke-width="0.5" opacity="0.3"/>
-  <line x1="318" y1="62" x2="328" y2="62" stroke="#a3e635" stroke-width="0.5" opacity="0.3"/>
-  <line x1="352" y1="62" x2="362" y2="62" stroke="#a3e635" stroke-width="0.5" opacity="0.3"/>
-</svg>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=a3e635&section=header&reversal=false&animation=fadeIn&fontColor=0a0a0a&fontSize=30" width="100%"/>
 
 </div>
 
 <div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║   ./hirusha-nikson --status active --mode: building  ✦   ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A3E635&center=true&vCenter=true&repeat=true&width=520&lines=Full+Stack+Developer+%F0%9F%9A%80;Web+%26+Mobile+Builder+%F0%9F%93%B1;AI-Powered+Solutions+%F0%9F%A4%96;Graphic+Designer+%2B+Cinematographer+%F0%9F%8E%AC" alt="Typing SVG"/>
 
