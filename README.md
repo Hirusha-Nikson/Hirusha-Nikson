@@ -15,7 +15,7 @@
 
 
 ### <img src="https://github.com/Hirusha-Nikson/Hirusha-Nikson/blob/main/ezgif.com-effects.gif" width ="15" color="#6948fa"><b style="color:#6948fa;"> About me</b>
-<p>I’m a 3rd-year Software Engineering student at Plymouth University (NSBM Green University), passionate about coding, problem-solving, and building impactful applications.
+<p>I’m currently working as a Junior Software Engineer, passionate about coding, problem-solving, and building impactful applications.
 
 - Currently Learning: <br>
 Web & Mobile Development: Front-end frameworks, back-end systems, and databases.
