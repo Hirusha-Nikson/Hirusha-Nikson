@@ -9,7 +9,7 @@
 <h1>HIRUSHA NIKSON</h1>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A3E635&center=true&vCenter=true&repeat=true&width=520&lines=Full+Stack+Developer+%F0%9F%9A%80;Web+%26+Mobile+Builder+%F0%9F%93%B1;AI-Powered+Solutions+%F0%9F%A4%96;Graphic+Designer+%2B+Cinematographer+%F0%9F%8E%AC" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A3E635&center=true&vCenter=true&repeat=true&width=520&lines=Software+Engineer;Web+%26+Mobile+Builder;AI-Powered+Solutions;Graphic+Designer+%2B+Photographer" alt="Typing SVG"/>
 
 <br/>
 <br/>
@@ -29,10 +29,10 @@
   "name"        : "Hirusha Nikson",
   "role"        : "Junior Software Engineer",
   "location"    : "Sri Lanka 🇱🇰",
-  "status"      : "🟢 Open to collaborations",
-  "focus"       : ["Full-Stack Development", "AI-Powered Apps", "Modern UI/UX"],
+  "status"      : "Open to collaborations",
+  "focus"       : ["Full-Stack Development", "AI-Powered Apps", "Cloudflare Dev"],
   "currently"   : "Building impactful web & mobile applications",
-  "learning"    : ["Advanced React patterns", "Backend systems", "Mobile dev"],
+  "learning"    : ["Advanced React patterns", "Cloudflare dev platform", "AI integrations"],
   "fun_fact"    : "I shoot code by day, shoot frames by night 🎥"
 }
 ```
@@ -45,7 +45,7 @@
 
 ### ⬡ Core Stack
 
-<img src="https://skillicons.dev/icons?i=py,dotnet,cs,react,nextjs,nodejs,express,js,ts&perline=9" />
+<img src="https://skillicons.dev/icons?i=cloudflare,nextjs,react,nodejs,ts,js,py,dotnet&perline=9" />
 
 ### ⬡ Frontend & Styling
 
