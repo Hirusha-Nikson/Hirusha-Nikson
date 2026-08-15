@@ -9,7 +9,7 @@
 <h1>HIRUSHA NIKSON</h1>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A3E635&center=true&vCenter=true&repeat=true&width=520&lines=Software+Engineer;Web+%26+Mobile+Builder;AI-Powered+Solutions;Graphic+Designer+%2B+Photographer" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A3E635&center=true&vCenter=true&repeat=true&width=520&lines=Software+Engineer" alt="Typing SVG"/>
 
 <br/>
 <br/>
